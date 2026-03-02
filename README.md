@@ -38,3 +38,6 @@ This system focuses on these four modules as it's baseline for functionality in 
 - **DataHandler** — A module for data saving with release mode switching support for debugging.
 - **InventoryHandler** — A module for inventory management with support for client-side model rendering and string-based instance references for switching between native data types.
 - **RenderHandler** — A module for rendering objects at random locations located in Workspace.
+
+## License
+[CC0-1.0](https://raw.githubusercontent.com/tobynetizen/rbx-system-demo/refs/heads/main/LICENSE)
