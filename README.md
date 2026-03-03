@@ -3,10 +3,9 @@
 A small showcase of an implementation of modular utilities that handle inventory management, currency management, data persistence, interface management, localized rendering, and exploit prevention.
 <br><br>
 <img src="2026-03-01-1.gif" alt="ONE" width="50%">
-<br>
+<br><br>
 If you wish to see this system in action, you can play the demo [here](https://www.roblox.com/games/85991830273617).
-### Script Definitions
----
+## Script Definitions
 ### Core
 This is the top-level server script with the highest precedence and is responsible for managing things such as:
 - Native Service Security
