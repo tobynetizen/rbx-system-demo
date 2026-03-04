@@ -14,13 +14,14 @@ This is the top-level server script with the highest precedence and is responsib
 - A/B Mode Testing
 
 <img src="2026-03-01-2.png" alt="TWO" width="60%">
-<img src="2026-03-01-3.png" alt="THREE" width="60%">
 
 ### Interface
 This is the lone local script that handles all of the needs of the client, such as:
 - Remote Event Obfuscation
 - User Input Management
 - Collision Detection
+
+<img src="2026-03-01-3.png" alt="THREE" width="60%">
 
 ![FOUR](2026-03-01-4.gif)
 <br>
